@@ -4,6 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=7agam&label=Profile%20views&color=0e75b6&style=flat" alt="7agam" /> </p>
 
 - 🔭 I’m currently working on [7GAMESNetwork](https://7games.ga)
+- 🔭 I’m currently working on [Botcord](https://home.mod-master.ga)
+- 🔭 I’m currently working on [Lavahosting](https://7games.ga)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
